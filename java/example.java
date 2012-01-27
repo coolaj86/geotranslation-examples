@@ -48,7 +48,7 @@ public class example {
 
     public static void main(String[] args) {
         if (args.length != 4) {
-            System.out.println("Usage: haverMath.sine <latitude1> <longitude1> <latitute2> <longitude2>");
+            System.out.println("Usage: example <latitude1> <longitude1> <latitute2> <longitude2>");
             return;
         }
 
