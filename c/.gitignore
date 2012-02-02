@@ -1,0 +1,7 @@
+# ignore the executables
+haversine
+translate2d
+translate3d
+
+# ignore the generated Makefile
+Makefile
